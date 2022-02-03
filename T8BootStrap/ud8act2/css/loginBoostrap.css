@@ -1,0 +1,32 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+    background-image:url("../img/background3.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family:'DM Sans', sans-serif;
+}
+
+button{
+    border-radius:40px;
+}
+
+.botoEntrar:hover{
+
+    opacity: 0.5;
+   
+}
+
+
+#foto{
+    background-image: url("../img/lateral2.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+}
