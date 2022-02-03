@@ -1,0 +1,26 @@
+@font-face{
+    font-family: "p";
+    src: url("fonts/Hind_Vadodara/HindVadodara-Medium.ttf");
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+  
+}
+
+body{
+    font-family: "p" !important;
+}
+
+.secop{
+
+    font-size: 14px
+}
+.ultima{
+    font-size: 14px;
+    
+}
+
+
