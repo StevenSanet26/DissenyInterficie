@@ -12,6 +12,8 @@
 
 body{
     font-family: "p" !important;
+
+    background-color: #E8F1F9;
 }
 
 .secop{
@@ -27,4 +29,8 @@ body{
     font-size: 12px;
 }
 
+.efecto:hover{
+    background-color: red;
+    
+}
 
