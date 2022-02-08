@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "p";
+    src: url("fonts/DM_Sans/DMSans_Regular.ttf");
+}
+
+body{
+
+    font-family: p;
+}
+
+
+.justificar{
+
+    text-align: justify;
+}
+
+.tamany{
+    font-size: 14px;
+    word-spacing: 10px;
+}
+
+
+.home{
+
+    font-size: 15px;
+}
+
